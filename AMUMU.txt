@@ -1,0 +1,31 @@
+AMUMU
+
+Bierna - Cursed Touch
+Klatwa na 3sec
+Damage: 10% nieuchronnych obrazen zawsze, gdy dostaje magic damage 
+
+Q - Bandage Toss
+Damage: 170 magic damage(+85% AP)
+Cooldown: 8sec
+Range: 1100
+Koszt: 120 many
+Stun na 1sec
+
+W - Despair
+Damage: 30 magic damage/sec (+2% maxhealth)
+Cooldown: 1sec (wylacz/wlacz)
+Range: 300
+Koszt: 8 many/sec
+
+E - Tantrum
+Damage: 175 magic damage - aktywna
+10 physic damage reduction - bierna
+Cooldown: 6sec
+Range: 350
+Koszt: 35 many
+
+R - Curse of the Sad Mummy
+Damage: 350 magic damage
+Cooldown: 110sec
+Range: 550
+Koszt: 200 many
